@@ -1,2 +1,2 @@
 # mytharchivedummy
-Test upload and make available some non-guaranteed minor code-fixes to MythTV 
+Test uploads and availability of a few, non-guaranteed, minor code-fixes to MythTV 
